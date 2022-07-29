@@ -17,7 +17,6 @@
 
     <modules>
         <module>MyMusic</module>
-        <module>TokenProvider</module>
     </modules>
 
 </project>
